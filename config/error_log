@@ -1,0 +1,4 @@
+[30-Jul-2023 15:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/muslimmatrimonyw/public_html/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/muslimmatrimonyw/public_html/config/cache.php on line 18
